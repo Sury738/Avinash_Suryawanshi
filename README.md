@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Avinash Suryawanshi</h1>
-<h3 align="center">A passionate Python developer/Python web developer from India</h3>
+<h3 align="center">A passionate Automation Testing from India</h3>
 <img align="right" alt="Coding" width="400" scr="![image](https://github.com/Sury738/Avinash_Suryawanshi/assets/140155014/a35fb1bd-e8e1-423a-807a-48f6719bfac4)
 ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sury738&label=Profile%20views&color=0e75b6&style=flat" alt="sury738" /> </p>
 
-- 🌱 I’m currently learning **Data Science,AWS**
+- 🌱 I’m currently learning **API Testing**
 
-- 💬 Ask me about **Python, SQL Server, Django, Linux, Git, Docker**
+- 💬 Ask me about **Python, Java, SQL Server, Selenium, TestNG, Maven, Manual/Automation Testing, Linux/Unix, Git, Docker, and Jenkins**
 
 - 📫 How to reach me **suryawanshiavinash1999@gmail.com**
 
