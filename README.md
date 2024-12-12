@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avinash Suryawanshi</h1>
 <h3 align="center">A passionate Automation Testing from India</h3>
-<img align="right" alt="Coding" width="400" scr="![image](https://github.com/Sury738/Avinash_Suryawanshi/assets/140155014/a35fb1bd-e8e1-423a-807a-48f6719bfac4)
+<img align="right" alt="Testing" width="400" scr="![image](https://github.com/Sury738/Avinash_Suryawanshi/assets/140155014/a35fb1bd-e8e1-423a-807a-48f6719bfac4)
 ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sury738&label=Profile%20views&color=0e75b6&style=flat" alt="sury738" /> </p>
 
